@@ -1,0 +1,45 @@
+body {
+  background-color:#f2d53c;
+}
+.dis {
+  width:200px;
+  height: 100px;
+  margin:50px auto;
+  margin-bottom: 30px;
+  background-color: black;
+  text-align: center;
+  padding: 20px;
+}
+
+
+
+.lab {
+  width:100%;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+  color:white;
+  font-family: Times New Roman;
+  font-weight: bold;
+  font-size: 30px;
+  justify-content: center;
+}
+.butdiv {
+  margin: 5px auto;
+  text-align: center;
+}
+.btn {
+  width: 120px;
+  height:40px;
+  border: 1px solid black;
+  background-color: black;
+  color:white;
+  font-family: Monospace;
+  font-size: 20px;
+  border-radius: 20px;
+  padding: 6px;
+  
+}
+.container {
+flex-wrap:wrap;
+}
